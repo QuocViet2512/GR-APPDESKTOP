@@ -1,0 +1,236 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0C3FF2CC-6AE8-4E35-AE62-601FC11DD8CF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAn</RootNamespace>
+    <AssemblyName>DoAn</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v19.2" />
+    <Reference Include="DevExpress.Data.v19.2" />
+    <Reference Include="DevExpress.Printing.v19.2.Core" />
+    <Reference Include="DevExpress.Utils.v19.2" />
+    <Reference Include="DevExpress.XtraBars.v19.2" />
+    <Reference Include="DevExpress.Sparkline.v19.2.Core" />
+    <Reference Include="DevExpress.XtraEditors.v19.2" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datmon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datmon.Designer.cs">
+      <DependentUpon>Datmon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\BANAN.cs" />
+    <Compile Include="Models\CHUCVU.cs" />
+    <Compile Include="Models\CTHD.cs" />
+    <Compile Include="Models\CTPN.cs" />
+    <Compile Include="Models\DATABASE.cs" />
+    <Compile Include="Models\DONHANG.cs" />
+    <Compile Include="Models\KHO.cs" />
+    <Compile Include="Models\LOAIMON.cs" />
+    <Compile Include="Models\LOAINGUYENLIEU.cs" />
+    <Compile Include="Models\MONAN.cs" />
+    <Compile Include="Models\NGUYENLIEU.cs" />
+    <Compile Include="Models\NHACUNGCAP.cs" />
+    <Compile Include="Models\NHANVIEN.cs" />
+    <Compile Include="Models\PHIEUNHAP.cs" />
+    <Compile Include="Models\sysdiagrams.cs" />
+    <Compile Include="Models\TAIKHOAN.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuenMatKhau.Designer.cs">
+      <DependentUpon>QuenMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThayDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThayDoiMatKhau.Designer.cs">
+      <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBan.Designer.cs">
+      <DependentUpon>ucBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMonan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMonan.Designer.cs">
+      <DependentUpon>ucMonan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDatMon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDatMon.Designer.cs">
+      <DependentUpon>ucDatMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucKho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucKho.Designer.cs">
+      <DependentUpon>ucKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNguyenlieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNguyenlieu.Designer.cs">
+      <DependentUpon>ucNguyenlieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNhanvien.Designer.cs">
+      <DependentUpon>ucNhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucTaikhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTaikhoan.Designer.cs">
+      <DependentUpon>ucTaikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucThongtincanhan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucThongtincanhan.Designer.cs">
+      <DependentUpon>ucThongtincanhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucThongKe.Designer.cs">
+      <DependentUpon>ucThongKe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Datmon.resx">
+      <DependentUpon>Datmon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuenMatKhau.resx">
+      <DependentUpon>QuenMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThayDoiMatKhau.resx">
+      <DependentUpon>ThayDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBan.resx">
+      <DependentUpon>ucBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMonan.resx">
+      <DependentUpon>ucMonan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDatMon.resx">
+      <DependentUpon>ucDatMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucKho.resx">
+      <DependentUpon>ucKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNguyenlieu.resx">
+      <DependentUpon>ucNguyenlieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNhanvien.resx">
+      <DependentUpon>ucNhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTaikhoan.resx">
+      <DependentUpon>ucTaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucThongtincanhan.resx">
+      <DependentUpon>ucThongtincanhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucThongKe.resx">
+      <DependentUpon>ucThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

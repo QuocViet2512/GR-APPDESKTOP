@@ -1,0 +1,347 @@
+D:\CNPM\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\CNPM\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\CNPM\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ucAdmin.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ucDatMon.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ucKho.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ucTaiKhoan.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.LoạiMon.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.QuenMatKhau.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ThayDoiMatKhau.resources
+D:\CNPM\DoAn\DoAn\obj\Debug\DoAn.ucThongKe.resources
+D:\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+D:\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.QuenMatKhau.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ThayDoiMatKhau.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucDatMon.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucKho.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucTaiKhoan.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucThongKe.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn\DoAn\bin\Debug\EntityFramework.dll
+D:\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\DoAn\bin\Debug\EntityFramework.xml
+D:\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucMonan.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucNguyenlieu.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucNhanvien.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucThongtincanhan.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.Datmon.resources
+D:\DoAn\DoAn\obj\Debug\DoAn.ucBan.resources
+D:\s\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\s\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\s\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\s\DoAn\DoAn\bin\Debug\EntityFramework.dll
+D:\s\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\s\DoAn\DoAn\bin\Debug\EntityFramework.xml
+D:\s\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\s\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\s\DoAn\DoAn\obj\Debug\DoAn.Datmon.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.QuenMatKhau.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ThayDoiMatKhau.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucBan.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucMonan.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucDatMon.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucKho.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucNguyenlieu.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucNhanvien.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucTaikhoan.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucThongtincanhan.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.ucThongKe.resources
+D:\s\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\s\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\s\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\s\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\s\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\s\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.exe.config
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.exe
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.pdb
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Datmon.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.QuenMatKhau.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ThayDoiMatKhau.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucBan.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucMonan.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucDatMon.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucKho.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucNguyenlieu.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucNhanvien.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucTaikhoan.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucThongtincanhan.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucThongKe.resources
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.exe
+F:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Data.v19.2.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Datmon.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.QuenMatKhau.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ThayDoiMatKhau.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucBan.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucMonan.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucDatMon.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucKho.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucNguyenlieu.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucNhanvien.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucTaikhoan.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucThongtincanhan.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.ucThongKe.resources
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\doan\New folder\DoAn\DoAn\obj\Debug\DoAn.pdb
